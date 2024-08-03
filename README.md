@@ -1,9 +1,9 @@
 # JsonPOwerDB.github.io-main
  Micro Project Work
 
-contact email : aniketdeytiu@gmail.com
+contact email : suhanwhats@gmail.com
 
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
+LINK - https://suhan1234.github.io/JsonPOwerDB.github.io-main/
 
 Title of the Project : Student Enrollment Form
 
